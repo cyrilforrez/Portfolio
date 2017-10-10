@@ -11,7 +11,6 @@
                 <ul>
                   <li><a class="grey-text text-lighten-3" href="https://github.com/cyrilforrez">Github</a></li>
                   <li><a class="grey-text text-lighten-3" href="https://twitter.com/cyrilforrez">Twitter</a></li>
-                  <li><a class="grey-text text-lighten-3" href="https://www.linkedin.com/in/forrez-cyril-a4bb8513a/">Linkedin</a></li>
                 </ul>
               </div>
             </div>
