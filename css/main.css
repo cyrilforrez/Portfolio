@@ -1,0 +1,21 @@
+#Tittle {
+  font-size: 35px;
+}
+
+#subtittle {
+  font-size: 20px;
+  padding-bottom: 2%;
+  }
+
+#subtittle, #Tittle {
+  margin-left: 1%;
+}
+
+#nav-mobile {
+  margin-right: 2%;
+}
+
+#card1, #card2, #card3, #card4 {
+  margin: 4% !important;
+  margin-left: 10% !important;
+}
